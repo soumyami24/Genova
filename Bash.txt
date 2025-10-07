@@ -1,0 +1,4 @@
+streamlit run home.py
+streamlit run Genova_Parenthood_Predictor.py
+streamlit run Genova_Polygenic_Risk_Predictor.py
+streamlit run Genova_Predictive_Counselling_Suite.py
