@@ -1,5 +1,4 @@
 import streamlit as st
-import numpy as np
 from streamlit_extras.switch_page_button import switch_page
 
 # Set page config with DNA theme
