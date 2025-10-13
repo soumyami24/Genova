@@ -1,6 +1,5 @@
 import streamlit as st
 import re
-from fpdf import FPDF
 from datetime import datetime
 from streamlit_extras.switch_page_button import switch_page
 
