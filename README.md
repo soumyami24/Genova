@@ -20,6 +20,7 @@ Genova is a web-based genomic analysis platform built with the Streamlit framewo
 
 
 * **Parenthood Predictor:** Assesses fertility compatibility, emotional compatibility, and analyzes genetic disorder pairings.
+  
   <img width="650" height="781" alt="image" src="https://github.com/user-attachments/assets/597d7b83-b021-49a2-9d4f-2ea6cbecc070" />
   <img width="413" height="763" alt="image" src="https://github.com/user-attachments/assets/6e3f6e48-ad94-4178-ad8b-2ac675959593" />
 
