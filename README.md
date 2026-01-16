@@ -1,4 +1,13 @@
-# Genova
+> [!IMPORTANT]
+> **🚀 PROJECT ROADMAP: Genova v2.0 (Active Research)**
+>
+> This repository currently hosts **Version 1 (Prototype)**, a functional tool demonstrating the core architecture of genomic risk analysis.
+>
+> **Current Focus (Version 2 Development):**
+> * **🧬 Advanced PRS Logic:** Upgrading the Polygenic Risk Score engine from weighted-sum models to **Bayesian regression methods** to account for Linkage Disequilibrium (LD) and improve predictive accuracy.
+> * **🔬 Grant & Incubation:** Refactoring the codebase for scalability and clinical validation standards. This upgrade is part of a proposal preparation for the **Department of Biotechnology (DBT) Student Innovation Grant**.
+>
+> *Contributions and feedback are welcome as we transition this from a prototype to a research-grade tool.*# Genova
 <img width="160" height="125" alt="image" src="https://github.com/user-attachments/assets/7f31e0f0-fc34-4787-b471-8b390700d329" />
 
 > Genes in Sync. Futures Aligned.
