@@ -5,7 +5,6 @@
 >
 > **Current Focus (Version 2 Development):**
 > * **🧬 Advanced PRS Logic:** Upgrading the Polygenic Risk Score engine from weighted-sum models to **Bayesian regression methods** to account for Linkage Disequilibrium (LD) and improve predictive accuracy.
-> * **🔬 Grant & Incubation:** Refactoring the codebase for scalability and clinical validation standards. This upgrade is part of a proposal preparation for the **Department of Biotechnology (DBT) Student Innovation Grant**.
 >
 > *Contributions and feedback are welcome as we transition this from a prototype to a research-grade tool.*# Genova
 <img width="160" height="125" alt="image" src="https://github.com/user-attachments/assets/7f31e0f0-fc34-4787-b471-8b390700d329" />
